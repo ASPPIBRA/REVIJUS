@@ -65,78 +65,90 @@ Art. 10º – DOS DEVERES DOS ASSOCIADOS
 Constituem deveres dos associados:  
 Art. 11º – A associação será representada, ativa e passivamente, por seu Presidente.
 
-3. 🔢 INCISOS (ENUMERAÇÕES ROMANAS)  
-Formato:
+### 3. 🔢 INCISOS (ENUMERAÇÕES ROMANAS)
+
+**Formato:**
 
 I – Título do Inciso – conteúdo resumido;  
-II – Título do Inciso – conteúdo resumido.  
-Boas práticas:
+II – Título do Inciso – conteúdo resumido.
+
+**Boas práticas:**
 
 - Numerar com algarismos romanos (I, II, III, etc.).  
 - Usar travessão (–) após o número.  
 - Se o inciso contiver título temático, colocá-lo em **negrito** ou com iniciais maiúsculas.  
-- Cada inciso termina com ponto e vírgula (;), exceto o último, que termina com ponto final (.).  
+- Cada inciso termina com ponto e vírgula (;), exceto o último, que termina com ponto final (.).
 
-Exemplo:
+**Exemplo:**
 
-I – Participação Institucional – Participar das Assembleias Gerais com direito a voz e voto;  
-II – Acesso à Informação – Ter acesso transparente às informações da associação.
+I – **Participação Institucional** – Participar das Assembleias Gerais com direito a voz e voto;  
+II – **Acesso à Informação** – Ter acesso transparente às informações da associação.  
 
-4. 🔡 ALÍNEAS (SUBINCISOS)  
+### 4. 🔡 ALÍNEAS (SUBINCISOS)
 
-Formato:
+**Formato:**
 
 a) texto da alínea;  
-b) texto da alínea.  
-Boas práticas:
+b) texto da alínea.
+
+**Boas práticas:**
 
 - Utilizar letra minúscula seguida de parênteses.  
-- Sempre finalizadas com ponto e vírgula (;), exceto a última, que termina com ponto final (.).  
+- Sempre finalizadas com ponto e vírgula (;), exceto a última, que termina com ponto final (.).
 
-5. § PARÁGRAFOS  
-A) PARÁGRAFO ÚNICO  
-Formato correto:  
+### 5. § PARÁGRAFOS
+
+#### A) PARÁGRAFO ÚNICO
+
+**Formato correto:**  
 Parágrafo único – Texto.
 
-Boas práticas:
+**Boas práticas:**
 
 - "Parágrafo único" com letra minúscula em “único”.  
 - Sempre usar travessão (–) após "Parágrafo único".  
 - Não utilizar ponto após "Parágrafo único".  
 - Posicionado após o caput (parte principal do artigo).  
-- Evitar criar parágrafo único quando houver mais de um parágrafo numerado.  
+- Evitar criar parágrafo único quando houver mais de um parágrafo numerado.
 
-Exemplo:
+**Exemplo:**
 
 Parágrafo único – Os casos omissos serão deliberados pela Diretoria Executiva.
 
-B) PARÁGRAFOS NUMERADOS  
-Formato correto:  
+---
+
+#### B) PARÁGRAFOS NUMERADOS
+
+**Formato correto:**  
 § 1º – Texto.
 
-Boas práticas:
+**Boas práticas:**
 
 - Utilizar o símbolo §, seguido de espaço e número ordinal com o símbolo de grau (º): § 1º.  
 - Usar travessão (–) após a numeração.  
 - Sempre iniciar com letra maiúscula.  
-- Empregar ponto final ao término do parágrafo.  
+- Empregar ponto final ao término do parágrafo.
 
-Exemplo:
+**Exemplo:**
 
 § 1º – O associado deverá manter seus dados cadastrais atualizados.  
 § 2º – A inadimplência poderá acarretar sanções estatutárias.
 
-6. ✍️ REDAÇÃO DO TEXTO NORMATIVO  
-A) TEMPO VERBAL  
+### 6. ✍️ REDAÇÃO DO TEXTO NORMATIVO
+
+#### A) TEMPO VERBAL
+
 - Utilize preferencialmente infinitivo impessoal (ex: “cumprir”, “respeitar”) em obrigações e deveres.  
 - Utilize o futuro do presente (ex: “poderá”, “deverá”) em disposições facultativas, condições ou consequências.
 
-B) LINGUAGEM  
+#### B) LINGUAGEM
+
 - Clara, técnica e objetiva, evitando ambiguidades e vocabulário excessivamente rebuscado.  
 - Evite o uso de termos informais ou jargões desnecessários.  
 - Utilize linguagem inclusiva, impessoal e institucional (ex: “o associado deverá”; “a associação poderá”).
 
-C) COESÃO E COERÊNCIA  
+#### C) COESÃO E COERÊNCIA
+
 - Evite repetição de ideias em artigos diferentes.  
 - Verifique se os termos utilizados estão definidos previamente ou são de compreensão universal.  
 - Mantenha padronização da linguagem e formatação ao longo de todo o documento.
