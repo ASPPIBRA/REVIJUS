@@ -59,11 +59,13 @@ Projetado para auxiliar advogados, analistas legislativos, procuradores e equipe
 
 ```txt
 Art. 10º – DOS DEVERES DOS ASSOCIADOS  
-
+```
 **Exemplo sem título**
 
+```txt
 Constituem deveres dos associados:  
 Art. 11º – A associação será representada, ativa e passivamente, por seu Presidente.
+```
 
 ### 3. 🔢 INCISOS (ENUMERAÇÕES ROMANAS)
 
