@@ -71,89 +71,119 @@ Art. 11º – A associação será representada, ativa e passivamente, por seu P
 
 **Formato:**
 
+```txt
 I – Título do Inciso – conteúdo resumido;  
 II – Título do Inciso – conteúdo resumido.
+```
 
 **Boas práticas:**
 
+```txt
 - Numerar com algarismos romanos (I, II, III, etc.).  
 - Usar travessão (–) após o número.  
 - Se o inciso contiver título temático, colocá-lo em **negrito** ou com iniciais maiúsculas.  
 - Cada inciso termina com ponto e vírgula (;), exceto o último, que termina com ponto final (.).
+```
 
 **Exemplo:**
 
+```txt
 I – **Participação Institucional** – Participar das Assembleias Gerais com direito a voz e voto;  
 II – **Acesso à Informação** – Ter acesso transparente às informações da associação.  
+```
 
 ### 4. 🔡 ALÍNEAS (SUBINCISOS)
 
 **Formato:**
 
+```txt
 a) texto da alínea;  
 b) texto da alínea.
+```
 
 **Boas práticas:**
 
+```txt
 - Utilizar letra minúscula seguida de parênteses.  
 - Sempre finalizadas com ponto e vírgula (;), exceto a última, que termina com ponto final (.).
+```
 
 ### 5. § PARÁGRAFOS
 
 #### A) PARÁGRAFO ÚNICO
 
 **Formato correto:**  
+
+```txt
 Parágrafo único – Texto.
+```
 
 **Boas práticas:**
 
+```txt
 - "Parágrafo único" com letra minúscula em “único”.  
 - Sempre usar travessão (–) após "Parágrafo único".  
 - Não utilizar ponto após "Parágrafo único".  
 - Posicionado após o caput (parte principal do artigo).  
 - Evitar criar parágrafo único quando houver mais de um parágrafo numerado.
+```
 
 **Exemplo:**
 
+```txt
 Parágrafo único – Os casos omissos serão deliberados pela Diretoria Executiva.
+```
 
 ---
 
 #### B) PARÁGRAFOS NUMERADOS
 
 **Formato correto:**  
+
+```txt
 § 1º – Texto.
+```
 
 **Boas práticas:**
 
+```txt
 - Utilizar o símbolo §, seguido de espaço e número ordinal com o símbolo de grau (º): § 1º.  
 - Usar travessão (–) após a numeração.  
 - Sempre iniciar com letra maiúscula.  
 - Empregar ponto final ao término do parágrafo.
+```
 
 **Exemplo:**
 
+```txt
 § 1º – O associado deverá manter seus dados cadastrais atualizados.  
 § 2º – A inadimplência poderá acarretar sanções estatutárias.
+```
 
 ### 6. ✍️ REDAÇÃO DO TEXTO NORMATIVO
 
 #### A) TEMPO VERBAL
 
+```txt
 - Utilize preferencialmente infinitivo impessoal (ex: “cumprir”, “respeitar”) em obrigações e deveres.  
 - Utilize o futuro do presente (ex: “poderá”, “deverá”) em disposições facultativas, condições ou consequências.
+```
 
 #### B) LINGUAGEM
 
+```txt
 - Clara, técnica e objetiva, evitando ambiguidades e vocabulário excessivamente rebuscado.  
 - Evite o uso de termos informais ou jargões desnecessários.  
 - Utilize linguagem inclusiva, impessoal e institucional (ex: “o associado deverá”; “a associação poderá”).
+```
 
 #### C) COESÃO E COERÊNCIA
 
+```txt
 - Evite repetição de ideias em artigos diferentes.  
 - Verifique se os termos utilizados estão definidos previamente ou são de compreensão universal.  
 - Mantenha padronização da linguagem e formatação ao longo de todo o documento.
+```
 
 7. 📘 REMISSÕES A OUTROS NORMATIVOS INTERNOS  
 Boa prática jurídica:  
@@ -161,12 +191,15 @@ Quando desejar delegar o detalhamento de uma regra para outro documento (como o 
 
 Modelos recomendados:
 
+```txt
 - “Nos termos a serem definidos no Regimento Interno.”  
 - “Conforme critérios previstos em regulamento próprio.”  
 - “Observadas as condições estabelecidas no Regimento Interno da associação.”
+```
 
 8. 🧾 EXEMPLO MODELO COMPLETO (Artigo com todos os elementos)
 
+```txt
 CAPÍTULO IV – DA ORGANIZAÇÃO ADMINISTRATIVA
 
 Art. 15º – DA DIRETORIA EXECUTIVA
@@ -185,3 +218,4 @@ III – Relatórios – Apresentar anualmente à Assembleia Geral o relatório d
 
 § 1º – O Presidente será substituído em suas faltas e impedimentos pelo Vice-Presidente.  
 § 2º – Em caso de vacância do cargo, nova eleição será convocada em até 60 dias.
+```
